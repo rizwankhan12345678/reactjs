@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactjs/static/css/main.d7e8047f.css",
-    "main.js": "/reactjs/static/js/main.8dcea292.js",
+    "main.js": "/reactjs/static/js/main.07699a8b.js",
     "static/js/787.ad5b5d77.chunk.js": "/reactjs/static/js/787.ad5b5d77.chunk.js",
     "static/media/orries.mp3": "/reactjs/static/media/orries.3e4e90c498eb0657ad7d.mp3",
     "static/media/Kesariya_Brahmastra.mp3": "/reactjs/static/media/Kesariya_Brahmastra.e5b8c475a860cfb07800.mp3",
@@ -17,11 +17,11 @@
     "static/media/Sulthan-KGF.jpg": "/reactjs/static/media/Sulthan-KGF.bdfa7f6d524919b53999.jpg",
     "index.html": "/reactjs/index.html",
     "main.d7e8047f.css.map": "/reactjs/static/css/main.d7e8047f.css.map",
-    "main.8dcea292.js.map": "/reactjs/static/js/main.8dcea292.js.map",
+    "main.07699a8b.js.map": "/reactjs/static/js/main.07699a8b.js.map",
     "787.ad5b5d77.chunk.js.map": "/reactjs/static/js/787.ad5b5d77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e8047f.css",
-    "static/js/main.8dcea292.js"
+    "static/js/main.07699a8b.js"
   ]
 }
