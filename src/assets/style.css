@@ -1,0 +1,9 @@
+.content-justify {
+    justify-content: inherit !important;
+}
+.login-class:hover {
+    color: rgb(70, 56, 56) !important;
+}
+.navbar {
+    font-weight: 700;
+}
