@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/reactjs/static/css/main.d7e8047f.css",
-    "main.js": "/reactjs/static/js/main.8dcea292.js",
-    "static/js/787.ad5b5d77.chunk.js": "/reactjs/static/js/787.ad5b5d77.chunk.js",
-    "static/media/orries.mp3": "/reactjs/static/media/orries.3e4e90c498eb0657ad7d.mp3",
-    "static/media/Kesariya_Brahmastra.mp3": "/reactjs/static/media/Kesariya_Brahmastra.e5b8c475a860cfb07800.mp3",
-    "static/media/Meri-Jaan-Gangubai.mp3": "/reactjs/static/media/Meri-Jaan-Gangubai.607357b818732bd008ea.mp3",
-    "static/media/Oo-Bolega.mp3": "/reactjs/static/media/Oo-Bolega.e0f3934684c1310d96f4.mp3",
-    "static/media/Sulthan-Kgf.mp3": "/reactjs/static/media/Sulthan-Kgf.07695cc3196de4612366.mp3",
-    "static/media/Ami-Je-Tomar.mp3": "/reactjs/static/media/Ami-Je-Tomar.6d45469d47e8bffb53b8.mp3",
-    "static/media/tree-736885_960_720.webp": "/reactjs/static/media/tree-736885_960_720.b05c8767aa1eecb8e1de.webp",
-    "static/media/oo-bolega.jpg": "/reactjs/static/media/oo-bolega.0d2cc40b1c9dea493dfb.jpg",
-    "static/media/bhool-bhulaiyaa.jpg": "/reactjs/static/media/bhool-bhulaiyaa.1df411d78bd1dd6b0aed.jpg",
-    "static/media/kesariya-brahmastra.jpg": "/reactjs/static/media/kesariya-brahmastra.29210e842d709f9c33ef.jpg",
-    "static/media/Meri-Jaan-Gangubai.jpg": "/reactjs/static/media/Meri-Jaan-Gangubai.6b4f4dea004265faf8fe.jpg",
-    "static/media/Sulthan-KGF.jpg": "/reactjs/static/media/Sulthan-KGF.bdfa7f6d524919b53999.jpg",
-    "index.html": "/reactjs/index.html",
-    "main.d7e8047f.css.map": "/reactjs/static/css/main.d7e8047f.css.map",
-    "main.8dcea292.js.map": "/reactjs/static/js/main.8dcea292.js.map",
-    "787.ad5b5d77.chunk.js.map": "/reactjs/static/js/787.ad5b5d77.chunk.js.map"
+    "main.css": "/static/css/main.d7e8047f.css",
+    "main.js": "/static/js/main.bb9a957e.js",
+    "static/js/787.ad5b5d77.chunk.js": "/static/js/787.ad5b5d77.chunk.js",
+    "static/media/orries.mp3": "/static/media/orries.3e4e90c498eb0657ad7d.mp3",
+    "static/media/Kesariya_Brahmastra.mp3": "/static/media/Kesariya_Brahmastra.e5b8c475a860cfb07800.mp3",
+    "static/media/Meri-Jaan-Gangubai.mp3": "/static/media/Meri-Jaan-Gangubai.607357b818732bd008ea.mp3",
+    "static/media/Oo-Bolega.mp3": "/static/media/Oo-Bolega.e0f3934684c1310d96f4.mp3",
+    "static/media/Sulthan-Kgf.mp3": "/static/media/Sulthan-Kgf.07695cc3196de4612366.mp3",
+    "static/media/Ami-Je-Tomar.mp3": "/static/media/Ami-Je-Tomar.6d45469d47e8bffb53b8.mp3",
+    "static/media/tree-736885_960_720.webp": "/static/media/tree-736885_960_720.b05c8767aa1eecb8e1de.webp",
+    "static/media/oo-bolega.jpg": "/static/media/oo-bolega.0d2cc40b1c9dea493dfb.jpg",
+    "static/media/bhool-bhulaiyaa.jpg": "/static/media/bhool-bhulaiyaa.1df411d78bd1dd6b0aed.jpg",
+    "static/media/kesariya-brahmastra.jpg": "/static/media/kesariya-brahmastra.29210e842d709f9c33ef.jpg",
+    "static/media/Meri-Jaan-Gangubai.jpg": "/static/media/Meri-Jaan-Gangubai.6b4f4dea004265faf8fe.jpg",
+    "static/media/Sulthan-KGF.jpg": "/static/media/Sulthan-KGF.bdfa7f6d524919b53999.jpg",
+    "index.html": "/index.html",
+    "main.d7e8047f.css.map": "/static/css/main.d7e8047f.css.map",
+    "main.bb9a957e.js.map": "/static/js/main.bb9a957e.js.map",
+    "787.ad5b5d77.chunk.js.map": "/static/js/787.ad5b5d77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e8047f.css",
-    "static/js/main.8dcea292.js"
+    "static/js/main.bb9a957e.js"
   ]
 }
